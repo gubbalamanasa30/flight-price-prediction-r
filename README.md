@@ -1,5 +1,5 @@
 
-# Flight Price Prediction using R
+# Flight-Fare-Prediction-and-Class-Analysis
 
 ##  Project Overview
 
