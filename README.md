@@ -1,6 +1,3 @@
-Here’s a polished, professional **README.md** suggestion for your project. I’ve restructured your content into a clean GitHub style with sections, concise wording, and Markdown formatting:
-
----
 
 # Flight Price Prediction using R
 
@@ -75,6 +72,3 @@ The project aims to **develop predictive models** that estimate flight ticket pr
 
 ---
 
-
-
-👉 Would you like me to also prepare a **shorter README version** (only Overview, Objectives, Tech Stack, and Results) so you can keep your repo clean and concise, while linking a **detailed report/PDF** for background and motivation?
